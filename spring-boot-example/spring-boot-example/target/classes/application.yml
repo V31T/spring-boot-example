@@ -1,0 +1,6 @@
+server:
+  port: 8080 #changes port to 3000 instead of 8080
+
+spring:
+  main:
+    web-application-type: servlet #use this to turn on or off the back-end server (servelt is default)
